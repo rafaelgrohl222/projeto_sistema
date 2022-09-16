@@ -1,0 +1,238 @@
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\Projeto_Sistema.View.exe.config
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\Projeto_Sistema.View.exe
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\Projeto_Sistema.View.pdb
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\obj\Debug\Projeto_Sistema.View.csproj.AssemblyReference.cache
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\obj\Debug\Projeto_Sistema.View.Properties.Resources.resources
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\obj\Debug\Projeto_Sistema.View.csproj.GenerateResource.cache
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\obj\Debug\Projeto_Sistema.View.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\obj\Debug\Projeto_Sistema.View.exe
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\obj\Debug\Projeto_Sistema.View.pdb
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\obj\Debug\Projeto_Sistema.View.frm_Login.resources
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\Projeto_Sistem.Entidades.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\Projeto_Sistema.Model.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\Projeto_Sistem.Entidades.pdb
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\Projeto_Sistema.Model.pdb
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\obj\Debug\Projeto_Sistema.View.csproj.CopyComplete
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\obj\Debug\Projeto_Sistema.View.frm_CadUsuario.resources
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\Projeto_Sistema.DAO.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\Projeto_Sistema.DAO.pdb
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\Projeto_Sistema.DAO.dll.config
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\obj\Debug\Projeto_Sistema.View.exe.config
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\EnvDTE.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\stdole.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\EnvDTE80.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\VSLangProj.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\VSLangProj80.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\Microsoft.MSXML.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\VSLangProj2.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.xml
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\bin\Debug\pt-BR\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.View\obj\Debug\Projeto_Sistema.View.frm_CadProdutos.resources
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\Projeto_Sistema.View.exe.config
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\Projeto_Sistema.View.exe
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\Projeto_Sistema.View.pdb
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\Projeto_Sistem.Entidades.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\Projeto_Sistema.Model.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\Projeto_Sistema.DAO.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\EnvDTE.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\stdole.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\EnvDTE80.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\VSLangProj.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\VSLangProj80.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\Microsoft.MSXML.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\VSLangProj2.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\Projeto_Sistem.Entidades.pdb
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\Projeto_Sistema.Model.pdb
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\Projeto_Sistema.DAO.pdb
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\Projeto_Sistema.DAO.dll.config
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.xml
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\bin\Debug\pt-BR\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\obj\Debug\Projeto_Sistema.View.csproj.AssemblyReference.cache
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\obj\Debug\Projeto_Sistema.View.exe.config
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\obj\Debug\Projeto_Sistema.View.frm_CadProdutos.resources
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\obj\Debug\Projeto_Sistema.View.Frm_CadUsuario.resources
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\obj\Debug\Projeto_Sistema.View.Frm_Login.resources
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\obj\Debug\Projeto_Sistema.View.Properties.Resources.resources
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\obj\Debug\Projeto_Sistema.View.csproj.GenerateResource.cache
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\obj\Debug\Projeto_Sistema.View.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\obj\Debug\Projeto_Sistema.View.csproj.CopyComplete
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\obj\Debug\Projeto_Sistema.View.exe
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\obj\Debug\Projeto_Sistema.View.pdb
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\obj\Debug\Projeto_Sistema.View.frm_reportUsuario.resources
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\obj\Debug\RdlCompile.cache
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\obj\Debug\RdlCompile.compiled
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.View\obj\Debug\Projeto_Sistema.View.frm_reportProduto.resources

@@ -1,0 +1,20 @@
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.DAO\bin\Debug\Projeto_Sistema.DAO.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.DAO\bin\Debug\Projeto_Sistema.DAO.pdb
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.DAO\bin\Debug\Projeto_Sistem.Entidades.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.DAO\bin\Debug\Projeto_Sistem.Entidades.pdb
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.DAO\obj\Debug\Projeto_Sistema.DAO.csproj.AssemblyReference.cache
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.DAO\obj\Debug\Projeto_Sistema.DAO.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.DAO\obj\Debug\Projeto_Sistema.DAO.csproj.CopyComplete
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.DAO\obj\Debug\Projeto_Sistema.DAO.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.DAO\obj\Debug\Projeto_Sistema.DAO.pdb
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.DAO\bin\Debug\Projeto_Sistema.DAO.dll.config
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.DAO\bin\Debug\Projeto_Sistema.DAO.dll.config
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.DAO\bin\Debug\Projeto_Sistema.DAO.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.DAO\bin\Debug\Projeto_Sistema.DAO.pdb
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.DAO\bin\Debug\Projeto_Sistem.Entidades.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.DAO\bin\Debug\Projeto_Sistem.Entidades.pdb
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.DAO\obj\Debug\Projeto_Sistema.DAO.csproj.AssemblyReference.cache
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.DAO\obj\Debug\Projeto_Sistema.DAO.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.DAO\obj\Debug\Projeto_Sistema.DAO.csproj.CopyComplete
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.DAO\obj\Debug\Projeto_Sistema.DAO.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.DAO\obj\Debug\Projeto_Sistema.DAO.pdb

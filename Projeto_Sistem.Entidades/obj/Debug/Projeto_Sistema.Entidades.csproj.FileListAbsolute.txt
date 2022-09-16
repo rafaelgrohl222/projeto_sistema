@@ -1,0 +1,12 @@
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistem.Entidades\bin\Debug\Projeto_Sistem.Entidades.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistem.Entidades\bin\Debug\Projeto_Sistem.Entidades.pdb
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistem.Entidades\obj\Debug\Projeto_Sistema.Entidades.csproj.AssemblyReference.cache
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistem.Entidades\obj\Debug\Projeto_Sistema.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistem.Entidades\obj\Debug\Projeto_Sistem.Entidades.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistem.Entidades\obj\Debug\Projeto_Sistem.Entidades.pdb
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistem.Entidades\bin\Debug\Projeto_Sistem.Entidades.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistem.Entidades\bin\Debug\Projeto_Sistem.Entidades.pdb
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistem.Entidades\obj\Debug\Projeto_Sistema.Entidades.csproj.AssemblyReference.cache
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistem.Entidades\obj\Debug\Projeto_Sistema.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistem.Entidades\obj\Debug\Projeto_Sistem.Entidades.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistem.Entidades\obj\Debug\Projeto_Sistem.Entidades.pdb

@@ -1,0 +1,24 @@
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.Model\bin\Debug\Projeto_Sistema.Model.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.Model\bin\Debug\Projeto_Sistema.Model.pdb
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.Model\bin\Debug\Projeto_Sistem.Entidades.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.Model\bin\Debug\Projeto_Sistema.DAO.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.Model\bin\Debug\Projeto_Sistem.Entidades.pdb
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.Model\bin\Debug\Projeto_Sistema.DAO.pdb
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.Model\obj\Debug\Projeto_Sistema.Model.csproj.AssemblyReference.cache
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.Model\obj\Debug\Projeto_Sistema.Model.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.Model\obj\Debug\Projeto_Sistema.Model.csproj.CopyComplete
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.Model\obj\Debug\Projeto_Sistema.Model.dll
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.Model\obj\Debug\Projeto_Sistema.Model.pdb
+C:\Users\rafae\source\repos\Projeto_Sistema\Projeto_Sistema.Model\bin\Debug\Projeto_Sistema.DAO.dll.config
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.Model\bin\Debug\Projeto_Sistema.Model.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.Model\bin\Debug\Projeto_Sistema.Model.pdb
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.Model\bin\Debug\Projeto_Sistem.Entidades.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.Model\bin\Debug\Projeto_Sistema.DAO.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.Model\bin\Debug\Projeto_Sistem.Entidades.pdb
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.Model\bin\Debug\Projeto_Sistema.DAO.pdb
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.Model\bin\Debug\Projeto_Sistema.DAO.dll.config
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.Model\obj\Debug\Projeto_Sistema.Model.csproj.AssemblyReference.cache
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.Model\obj\Debug\Projeto_Sistema.Model.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.Model\obj\Debug\Projeto_Sistema.Model.csproj.CopyComplete
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.Model\obj\Debug\Projeto_Sistema.Model.dll
+C:\Users\rafae\source\repos\Projeto_Sistema - BKP\Projeto_Sistema.Model\obj\Debug\Projeto_Sistema.Model.pdb
